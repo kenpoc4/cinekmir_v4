@@ -1,0 +1,15 @@
+{
+  "name": "cine_kmir",
+  "version": "4.0.0",
+  "description": "Web site for www.cinekmir.com",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "scss": "node-sass --watch assets/sass -o assets/css"
+  },
+  "author": "Kenny Poncio",
+  "license": "ISC",
+  "dependencies": {
+    "node-sass": "^7.0.1"
+  }
+}
